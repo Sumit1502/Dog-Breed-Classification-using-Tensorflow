@@ -1,0 +1,3 @@
+Dog Breed Classification using TensorFlow
+-----------------------------------------
+This project aims to classify different dog breeds using a deep learning model built with TensorFlow. The dataset consists of images of various dog breeds, and the model is trained to identify the correct breed based on these images. The project leverages convolutional neural networks (CNNs) for feature extraction and classification, ensuring high accuracy in breed prediction. By the end of this project, the model is capable of recognizing multiple dog breeds, providing a scalable solution for dog breed identification tasks.
